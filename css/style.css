@@ -1416,7 +1416,8 @@ input[type="submit"] {
 }
 
 .panel-body {
-	padding: 4px 15px 10px 15px;
+	padding: 0px 15px 0px 15px;
+	margin-top:0px;
 }
 
 .panel-heading {
@@ -1431,7 +1432,7 @@ input[type="submit"] {
 .panel-title a {
 	position: relative;
 	display: block;
-	padding: 6px 12px;
+	padding: 2px 12px;
 	background-color: #fff;
 	box-shadow: none;
 	-o-box-shadow: none;
